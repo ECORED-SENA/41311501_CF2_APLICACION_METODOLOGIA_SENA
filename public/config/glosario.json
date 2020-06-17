@@ -1,0 +1,59 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Ambiente de Aprendizaje",
+        "desciption": "Es el conjunto de condiciones que propician y facilitan el logro de los objetivos de la Formación Profesional Integral, conformado por: componente físico o de infraestructura, componente tecnológico y componente pedagógico."
+      }
+    ]
+  },
+  {
+    "letter": "c",
+    "terms": [
+      {
+        "title": "Conocimiento de proceso",
+        "desciption": "Soportan el desempeño de las funciones del egresado y son seleccionados desde las Normas Sectoriales de Competencia Laboral - NSCL."
+      },
+      {
+        "title": "Conocimientos del saber",
+        "desciption": "Son los saberes que el aprendiz debe apropiar para lograr los resultados de aprendizaje (saberes, leyes, teorías y principios)."
+      },
+      {
+        "title": "Criterios de evaluación",
+        "desciption": "Expresión de logro del aprendiz en el proceso de aprendizaje, permite la emisión de un juicio evaluativo respecto a la aprehensión y desarrollo de capacidades con relación a un resultado de aprendizaje y los conocimientos de proceso de ese resultado."
+      }            
+    ]
+  }, 
+  {
+    "letter": "I",
+    "terms": [
+      {
+        "title": "Instructor",
+        "desciption": "Tutor actúa como facilitador y es un recurso más del aprendizaje autodirigido."
+      }
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Perfil de egreso",
+        "desciption": "Competencias que logra el aprendiz al finalizar su proceso formativo a nivel ocupacional y profesional para su incorporación al mundo del trabajo."
+      },
+      {
+        "title": "Perfil de ingreso",
+        "desciption": "Requisitos mínimos que debe presentar el aspirante a un programa de formación, para que pueda iniciar su proceso formativo."
+      }      
+    ]
+  },
+  {
+    "letter": "R",
+    "terms": [
+      {
+        "title": "Resultado de aprendizaje",
+        "desciption": "Expresión de lo que una persona sabe, comprende y es capaz de hacer después de un proceso de aprendizaje."
+      }
+    ]
+  }  
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "perfiles",
+    "title": "1. Perfiles",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+          "icon": "fa fa-play-circle",
+          "slug": "perfil-egreso-ingreso",
+          "title": "1.1 Perfil de egreso",
+          "path": "pages/tema-11.html"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "perfil-egreso-ingreso",
+        "title": "1.2 Perfil de ingreso",
+        "anchor": "tema-12"
+      }
+    ]
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "matriz-correlacion",
+    "title": "2. Matriz de correlación",
+    "path": "pages/tema-2.html"
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "perfil-instructor-ambientes",
+    "title": "3. Perfil del instructor y ambientes de formación",
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "perfil-instructor-ambientes",
+        "title": "3.1 Perfil del instructor",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "perfil-instructor-ambientes",
+        "title": "3.2 Ambientes de formación",
+        "anchor": "tema-32"
+      }
+    ]    
+  }
+]
